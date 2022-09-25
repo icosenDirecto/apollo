@@ -4,7 +4,7 @@ timezone: America/Argentina/Buenos_Aires
 collections:
   comercios:
     title: Comercios
-    output: true
+    output: false
   posts:
     title: Posts
     output: true
