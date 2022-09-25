@@ -25,7 +25,8 @@ layout: default
 			<div class="main-container">
 {%for comercios in site.comercios %}
 <p>{{ comercios.title }}</p>
-<img src="{{ page.imagen.image }}" alt=""> 
+<img src="{{ page.data.image }}" alt=""> 
+<a href="{{ page.data.link }}"></a>
 {% endfor %}
 			</div>
 		</section>
