@@ -5,9 +5,6 @@ collections:
   comercios:
     title: Comercios
     output: false
-    data:
-      image: 
-      link: 
   posts:
     title: Posts
     output: true
